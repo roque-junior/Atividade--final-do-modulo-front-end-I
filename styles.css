@@ -13,7 +13,7 @@ a {
     align-items: center;
     justify-content: center;
     height: 100vh;
-    width: 300px;
+    width: 600px;
     background-color: blue;
     
 
@@ -27,9 +27,12 @@ footer {
 }
 ul {
    list-style-type: none;
+   margin-left: 40px;
 }
 li {
    margin: 10px;
+   font-size: larger;
+   font-weight: bold;
 }
 
 .rede-social {
@@ -94,13 +97,14 @@ span {
   padding: center;
   font-size: 2rem;
   font-weight: bold;
-  margin-left: 120px;
+  margin: 100px;
+
   
 }
 
 
 #Conhecimento {
-   font-size: 4rem;
+   font-size: larger;
    margin-left: 200px;
   
 }
@@ -111,5 +115,10 @@ i {
 
 i:hover {
    color: blue;
+}
+
+h1{
+   margin-left: 50px;
+
 }
 
